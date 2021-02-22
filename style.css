@@ -12,6 +12,11 @@
   width: 1024px;
 }
 
+.products__card {
+  -webkit-box-shadow: 23px 31px 46px dimgrey;
+          box-shadow: 23px 31px 46px dimgrey;
+}
+
 .products__text {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -21,7 +26,5 @@
       -ms-flex-direction: column;
           flex-direction: column;
   background: lightgrey;
-  -webkit-box-shadow: 23px 31px 46px dimgrey;
-          box-shadow: 23px 31px 46px dimgrey;
 }
 /*# sourceMappingURL=style.css.map */
